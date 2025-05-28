@@ -46,27 +46,5 @@
 <br/>
 <br/>
 
-
-<br/>
-
-## Top Open Source -
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Umar-sfdc&repo=Quest&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Umar-sfdc/Quest)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Umar-sfdc&repo=Trailblazer-Toolkit&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Umar-sfdc/Trailblazer-Toolkit)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Umar-sfdc&repo=Salesforce-Apex-Triggers&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Umar-sfdc/Salesforce-Apex-Triggers)
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Umar-sfdc&repo=Javascript&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Umar-sfdc/Javascript)
-
-<br>
-
-![Umar-sfdc Graph](https://github-readme-activity-graph.vercel.app/graph?username=Umar-sfdc&custom_title=Umar-sfdc%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-### 
-
-
-###
-
-<img src="https://raw.githubusercontent.com/Umar-sfdc/Umar-sfdc/output/snake.svg" alt="Snake animation" />
-
-</br>
-
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/umar.sfdc) 
