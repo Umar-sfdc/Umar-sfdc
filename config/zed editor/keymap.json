@@ -1,0 +1,31 @@
+// Zed keymap
+//
+// For information on binding keys, see the Zed
+// documentation: https://zed.dev/docs/key-bindings
+//
+// To see the default key bindings run `zed: open default keymap`
+// from the command palette.
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      //
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "cmd-b": null,
+      "cmd-k": "assistant::InlineAssist"
+    }
+  },
+  {
+    "bindings": {
+      "cmd-k cmd-b": "workspace::ToggleRightDock",
+      "cmd-b": null,
+      "cmd-t": "workspace::ToggleBottomDock",
+      "cmd-k cmd-e": "project_panel::ToggleFocus",
+      "cmd-i": "agent::NewThread"
+    }
+  }
+]
