@@ -1,0 +1,59 @@
+{
+    "editor.mouseWheelZoom": true,
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.env.windows": {},
+    "workbench.editor.editorActionsLocation": "hidden",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "workbench.editor.empty.hint": "hidden",
+    "files.defaultLanguage": "markdown",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "files.autoSave": "afterDelay",
+    "window.titleBarStyle": "custom",
+    "editor.fontWeight": "400",
+    "terminal.integrated.stickyScroll.enabled": true,
+    "workbench.tree.enableStickyScroll": false,
+    "terminal.integrated.fontWeight": "600",
+    "editor.fontFamily": "Hck Nerd Font Mono,MonoLisa,JetBrains Mono",
+    "material-icon-theme.folders.theme": "classic",
+    "git-autoconfig.configList": [
+        {}
+    ],
+    "git-autoconfig.ignoreRootList": [
+        "D:/Abandoned Content/Temp"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "editor.accessibilitySupport": "off",
+    "editor.stickyScroll.enabled": false,
+    "editor.fontSize": 22,
+    "code-runner.runInTerminal": true,
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "terminal.integrated.fontSize": 18,
+    "editor.lineHeight": 2.5,
+    "editor.indentSize": "tabSize",
+    "editor.tokenColorCustomizations": {
+
+    },
+    "terminal.integrated.fontFamily": "CaskaydiaMono Nerd Font",
+    "terminal.integrated.lineHeight": 0,
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.size": "fill",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.settings.applyToAllProfiles": [
+    
+        
+    ]
+}
