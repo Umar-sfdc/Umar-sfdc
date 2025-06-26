@@ -1,0 +1,62 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "outline_panel": {
+    "dock": "right"
+  },
+  "icon_theme": "Catppuccin Macchiato",
+  "agent": {
+    "always_allow_tool_actions": true,
+    "default_profile": "write",
+    "version": "2",
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-7-sonnet-thinking-latest"
+    },
+    "inline_assistant_model": {
+      "provider": "copilot_chat",
+      "model": "o4-mini"
+    }
+  },
+  "version": {
+    "version": "2"
+  },
+  "features": {
+    "edit_prediction_provider": "supermaven"
+  },
+  "languages": {
+    "PHP": {
+      "language_servers": ["phpactor", "..."],
+      "formatter": {
+        "external": {
+          "command": "npx",
+          "arguments": ["prettier", "--stdin-filepath", "{buffer_path}"]
+        }
+      }
+    }
+  },
+  "file_types": {
+    "PHP": ["*.php"],
+    "Blade": ["*.blade.php"]
+  },
+  "base_keymap": "VSCode",
+  "theme": "Catppuccin Frappé",
+  "ui_font_family": "Dank Mono",
+  "buffer_font_family": "Dank Mono",
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "project_panel": {
+    // Whether to show the project panel button in the status bar
+    "button": true,
+    // Default width of the project panel.
+    "default_width": 240,
+    // Where to dock the project panel. Can be 'left' or 'right'.
+    "dock": "right"
+  }
+}
